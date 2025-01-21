@@ -4,7 +4,7 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 
 ## [Unreleased]
 
-## [0.2.0] - <PON AQUÍ LA FECHA DE HOY>
+## [0.2.0] - <2025-01-21>
 ### Added
 - Fichero CHANGELOG.md
 
